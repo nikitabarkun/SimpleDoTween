@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BarsController.cs" />
+     <Compile Include="Assets\Scripts\Card.cs" />
      <Compile Include="Assets\Scripts\HalfCirclesController.cs" />
      <Compile Include="Assets\Scripts\HomeButtonController.cs" />
  <Reference Include="Unity.Timeline.Editor">
